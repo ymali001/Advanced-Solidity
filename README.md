@@ -1,1 +1,1 @@
-Advanced Solidity
+Decentralized Apps
